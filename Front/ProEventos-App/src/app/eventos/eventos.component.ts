@@ -3,14 +3,12 @@ import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-eventos',
-  //standalone: true,
-  //imports: [],
   templateUrl: './eventos.component.html',
-  styleUrl: './eventos.component.scss'
+  styleUrls: ['./eventos.component.scss']
 })
-export class EventosComponent implements OnInit{
+export class EventosComponent implements OnInit {
 
-  public eventos: any;
+public eventos : any;
 
   constructor(private http: HttpClient) { }
 
@@ -19,12 +17,9 @@ export class EventosComponent implements OnInit{
   }
 
   public getEventos(): void {
-    console.log("Teste Get Eventos");
     this.http.get('https://localhost:5001/api/eventos').subscribe(
-      {
-        next: response => this.eventos = response,
-        error:error => console.log(error)
-      }
+      response => this.eventos = response,
+      error => console.log(error)
     );
   }
 
