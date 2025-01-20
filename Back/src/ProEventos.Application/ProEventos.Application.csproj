@@ -5,6 +5,8 @@
   </PropertyGroup>
 
     <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="6.0.0" />
+    
     <ProjectReference Include="..\ProEventos.Domain\ProEventos.Domain.csproj" />
     <ProjectReference Include="..\ProEventos.Persistence\ProEventos.Persistence.csproj" />
   </ItemGroup>
