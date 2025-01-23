@@ -19,20 +19,20 @@ export class PerfilComponent implements OnInit {
 
   private validation(): void {
 
-    const formOptions: AbstractControlOptions ={
+    const formOptions: AbstractControlOptions = {
       validators: ValidatorField.MustMatch('senha', 'confirmeSenha')
     };
 
     this.form = this.fb.group({
-      titulo:['', Validators.required],
-      primeiroNome:['', Validators.required] ,
-      ultimoNome:['', Validators.required] ,
-      email:['', [Validators.required, Validators.email]] ,
-      telefone:['', Validators.required],
-      funcao:['', Validators.required],
-      descricao:['', Validators.required],
-      senha:['', [Validators.required, Validators.minLength(6)]] ,
-      confirmeSenha:['', Validators.required] ,
+      titulo: ['', Validators.required],
+      primeiroNome: ['', Validators.required] ,
+      ultimoNome: ['', Validators.required] ,
+      email: ['', [Validators.required, Validators.email]] ,
+      telefone: ['', Validators.required],
+      funcao: ['', Validators.required],
+      descricao: ['', Validators.required],
+      senha: ['', [Validators.required, Validators.minLength(6)]] ,
+      confirmeSenha: ['', Validators.required] ,
     }, formOptions);
   }
 
