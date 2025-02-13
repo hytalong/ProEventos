@@ -21,17 +21,17 @@ export class RegistrationComponent implements OnInit {
 
   private validation(): void{
 
-    const formOptions: AbstractControlOptions ={
+    const formOptions: AbstractControlOptions = {
       validators: ValidatorField.MustMatch('senha', 'confirmeSenha')
     };
 
     this.form = this.fb.group({
-      primeiroNome:['', Validators.required] ,
-      ultimoNome:['', Validators.required] ,
-      email:['', [Validators.required, Validators.email]] ,
+      primeiroNome: ['', Validators.required] ,
+      ultimoNome: ['', Validators.required] ,
+      email: ['', [Validators.required, Validators.email]] ,
       userName: ['', Validators.required],
-      senha:['', [Validators.required, Validators.minLength(6)]] ,
-      confirmeSenha:['', Validators.required] ,
+      senha: ['', [Validators.required, Validators.minLength(6)]] ,
+      confirmeSenha: ['', Validators.required] ,
     }, formOptions);
   }
 }
