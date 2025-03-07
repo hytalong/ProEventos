@@ -46,13 +46,13 @@ namespace ProEventos.Application
             }
         }
 
-        public async Task<EventoDto> UpdateEvento(int envendoId, EventoDto model)
+        public async Task<EventoDto> UpdateEvento(int eventoId, EventoDto model)
         {
             
             try
             {
 
-                var evento = await _eventoPersist.GetEventoByIdAsync(envendoId, false);
+                var evento = await _eventoPersist.GetEventoByIdAsync(eventoId, false);
                 if (evento == null) return null;
 
                 model.Id = evento.Id;
