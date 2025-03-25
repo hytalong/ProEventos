@@ -1,0 +1,36 @@
+C:\MeusProjetos\VSCode\ProjetoProEventos\ProEventos\back\src\ProEventos.Domain\bin\Debug\net5.0\ProEventos.Domain.deps.json
+C:\MeusProjetos\VSCode\ProjetoProEventos\ProEventos\back\src\ProEventos.Domain\bin\Debug\net5.0\ProEventos.Domain.dll
+C:\MeusProjetos\VSCode\ProjetoProEventos\ProEventos\back\src\ProEventos.Domain\bin\Debug\net5.0\ref\ProEventos.Domain.dll
+C:\MeusProjetos\VSCode\ProjetoProEventos\ProEventos\back\src\ProEventos.Domain\bin\Debug\net5.0\ProEventos.Domain.pdb
+C:\MeusProjetos\VSCode\ProjetoProEventos\ProEventos\back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.csproj.AssemblyReference.cache
+C:\MeusProjetos\VSCode\ProjetoProEventos\ProEventos\back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\MeusProjetos\VSCode\ProjetoProEventos\ProEventos\back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.AssemblyInfoInputs.cache
+C:\MeusProjetos\VSCode\ProjetoProEventos\ProEventos\back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.AssemblyInfo.cs
+C:\MeusProjetos\VSCode\ProjetoProEventos\ProEventos\back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.csproj.CoreCompileInputs.cache
+C:\MeusProjetos\VSCode\ProjetoProEventos\ProEventos\back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.dll
+C:\MeusProjetos\VSCode\ProjetoProEventos\ProEventos\back\src\ProEventos.Domain\obj\Debug\net5.0\ref\ProEventos.Domain.dll
+C:\MeusProjetos\VSCode\ProjetoProEventos\ProEventos\back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.pdb
+C:\MeusProjetos\VSCode\ProjetoProEventos - Backup\ProEventos\back\src\ProEventos.Domain\bin\Debug\net5.0\ProEventos.Domain.deps.json
+C:\MeusProjetos\VSCode\ProjetoProEventos - Backup\ProEventos\back\src\ProEventos.Domain\bin\Debug\net5.0\ProEventos.Domain.dll
+C:\MeusProjetos\VSCode\ProjetoProEventos - Backup\ProEventos\back\src\ProEventos.Domain\bin\Debug\net5.0\ref\ProEventos.Domain.dll
+C:\MeusProjetos\VSCode\ProjetoProEventos - Backup\ProEventos\back\src\ProEventos.Domain\bin\Debug\net5.0\ProEventos.Domain.pdb
+C:\MeusProjetos\VSCode\ProjetoProEventos - Backup\ProEventos\back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.csproj.AssemblyReference.cache
+C:\MeusProjetos\VSCode\ProjetoProEventos - Backup\ProEventos\back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\MeusProjetos\VSCode\ProjetoProEventos - Backup\ProEventos\back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.AssemblyInfoInputs.cache
+C:\MeusProjetos\VSCode\ProjetoProEventos - Backup\ProEventos\back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.AssemblyInfo.cs
+C:\MeusProjetos\VSCode\ProjetoProEventos - Backup\ProEventos\back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.csproj.CoreCompileInputs.cache
+C:\MeusProjetos\VSCode\ProjetoProEventos - Backup\ProEventos\back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.dll
+C:\MeusProjetos\VSCode\ProjetoProEventos - Backup\ProEventos\back\src\ProEventos.Domain\obj\Debug\net5.0\ref\ProEventos.Domain.dll
+C:\MeusProjetos\VSCode\ProjetoProEventos - Backup\ProEventos\back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.pdb
+C:\MeusProjetos\VSCode\ProjetoProEventos - Backup - Erro Atualizacao Evento\ProEventos\back\src\ProEventos.Domain\bin\Debug\net5.0\ProEventos.Domain.deps.json
+C:\MeusProjetos\VSCode\ProjetoProEventos - Backup - Erro Atualizacao Evento\ProEventos\back\src\ProEventos.Domain\bin\Debug\net5.0\ProEventos.Domain.dll
+C:\MeusProjetos\VSCode\ProjetoProEventos - Backup - Erro Atualizacao Evento\ProEventos\back\src\ProEventos.Domain\bin\Debug\net5.0\ref\ProEventos.Domain.dll
+C:\MeusProjetos\VSCode\ProjetoProEventos - Backup - Erro Atualizacao Evento\ProEventos\back\src\ProEventos.Domain\bin\Debug\net5.0\ProEventos.Domain.pdb
+C:\MeusProjetos\VSCode\ProjetoProEventos - Backup - Erro Atualizacao Evento\ProEventos\back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.csproj.AssemblyReference.cache
+C:\MeusProjetos\VSCode\ProjetoProEventos - Backup - Erro Atualizacao Evento\ProEventos\back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\MeusProjetos\VSCode\ProjetoProEventos - Backup - Erro Atualizacao Evento\ProEventos\back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.AssemblyInfoInputs.cache
+C:\MeusProjetos\VSCode\ProjetoProEventos - Backup - Erro Atualizacao Evento\ProEventos\back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.AssemblyInfo.cs
+C:\MeusProjetos\VSCode\ProjetoProEventos - Backup - Erro Atualizacao Evento\ProEventos\back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.csproj.CoreCompileInputs.cache
+C:\MeusProjetos\VSCode\ProjetoProEventos - Backup - Erro Atualizacao Evento\ProEventos\back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.dll
+C:\MeusProjetos\VSCode\ProjetoProEventos - Backup - Erro Atualizacao Evento\ProEventos\back\src\ProEventos.Domain\obj\Debug\net5.0\ref\ProEventos.Domain.dll
+C:\MeusProjetos\VSCode\ProjetoProEventos - Backup - Erro Atualizacao Evento\ProEventos\back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.pdb

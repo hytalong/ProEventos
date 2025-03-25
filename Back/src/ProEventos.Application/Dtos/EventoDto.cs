@@ -12,7 +12,7 @@ namespace ProEventos.Application.Dtos
 
         public string Local { get; set; }
 
-        public DateTime? DataEvento { get; set; }
+        public string DataEvento { get; set; }
 
         [Required(ErrorMessage = "O campo {0} é obrigatório."),
         //MinLength(3, ErrorMessage = "O campo {0} deve ter no mínimo 4 caracteres."),
