@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "clMxDCU52ZpqcF/50qaUlFtF8HA4NDJ7rrRhfdBV4a3IYUMAoAlpvuem0PnXGlxX+KUEdy2w5AC3jRkyD8rHWw==",
+  "dgSpecHash": "TlxSb3tKF3o=",
   "success": true,
-  "projectFilePath": "C:\\MeusProjetos\\VSCode\\ProjetoProEventos - Backup - Erro Atualizacao Evento\\ProEventos\\back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj",
+  "projectFilePath": "C:\\MeusProjetos\\VSCode\\ProjetoProEventosBackup2.0\\ProEventos\\back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\isosc\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\isosc\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

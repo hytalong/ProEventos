@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProEventos.Application
-build_property.ProjectDir = c:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\Back\src\ProEventos.Application\
+build_property.ProjectDir = C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Application\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

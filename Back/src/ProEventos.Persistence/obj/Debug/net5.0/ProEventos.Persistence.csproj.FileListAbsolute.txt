@@ -34,3 +34,22 @@ C:\MeusProjetos\VSCode\ProjetoProEventos - Backup - Erro Atualizacao Evento\ProE
 C:\MeusProjetos\VSCode\ProjetoProEventos - Backup - Erro Atualizacao Evento\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net5.0\ref\ProEventos.Persistence.dll
 C:\MeusProjetos\VSCode\ProjetoProEventos - Backup - Erro Atualizacao Evento\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.pdb
 C:\MeusProjetos\VSCode\ProjetoProEventos - Backup - Erro Atualizacao Evento\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.genruntimeconfig.cache
+C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.deps.json
+C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.runtimeconfig.json
+C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.runtimeconfig.dev.json
+C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.dll
+C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.pdb
+C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Domain.dll
+C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Domain.pdb
+C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.csproj.AssemblyReference.cache
+C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.AssemblyInfoInputs.cache
+C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.AssemblyInfo.cs
+C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.csproj.CoreCompileInputs.cache
+C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.sourcelink.json
+C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEvent.EC3B9F6D.Up2Date
+C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.dll
+C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net5.0\refint\ProEventos.Persistence.dll
+C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.pdb
+C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.genruntimeconfig.cache
+C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Persistence\obj\Debug\net5.0\ref\ProEventos.Persistence.dll

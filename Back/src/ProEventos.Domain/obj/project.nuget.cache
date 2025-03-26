@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PvKzPzYAfdJAsH4N2nSTCX4A9eGaHWOp+cjOnY/j7fLGbgVKI3sTganfKfvfvJMXiKpw1ZJEnqfl1P9hh0m4QA==",
+  "dgSpecHash": "MiDdGeBhKHc=",
   "success": true,
-  "projectFilePath": "C:\\MeusProjetos\\VSCode\\ProjetoProEventos - Backup - Erro Atualizacao Evento\\ProEventos\\back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj",
+  "projectFilePath": "C:\\MeusProjetos\\VSCode\\ProjetoProEventosBackup2.0\\ProEventos\\back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

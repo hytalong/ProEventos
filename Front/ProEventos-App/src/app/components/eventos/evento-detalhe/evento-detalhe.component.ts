@@ -127,7 +127,7 @@ export class EventoDetalheComponent implements OnInit {
       qtdPessoas: ['', [Validators.required, Validators.max(120000)]],
       telefone: ['', [Validators.required]],
       email: ['', [Validators.required, Validators.email]],
-      imagemURL: ['', Validators.required],
+      imagemURL: [''],
       lotes: this.fb.array([])
     });
   }
@@ -147,7 +147,7 @@ export class EventoDetalheComponent implements OnInit {
     });
   }
 
-  public mudarValordata(value: Date, indice: number, campo: string): void {
+  public mudarValorData(value: Date, indice: number, campo: string): void {
     this.lotes.value[indice][campo] = value;
   }
 

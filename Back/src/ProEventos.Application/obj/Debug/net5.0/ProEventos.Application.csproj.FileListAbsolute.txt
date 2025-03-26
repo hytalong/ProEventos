@@ -49,3 +49,21 @@ C:\MeusProjetos\VSCode\ProjetoProEventos - Backup - Erro Atualizacao Evento\ProE
 C:\MeusProjetos\VSCode\ProjetoProEventos - Backup - Erro Atualizacao Evento\ProEventos\back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.dll
 C:\MeusProjetos\VSCode\ProjetoProEventos - Backup - Erro Atualizacao Evento\ProEventos\back\src\ProEventos.Application\obj\Debug\net5.0\ref\ProEventos.Application.dll
 C:\MeusProjetos\VSCode\ProjetoProEventos - Backup - Erro Atualizacao Evento\ProEventos\back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.pdb
+C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Application.deps.json
+C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Application.dll
+C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Application.pdb
+C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Domain.dll
+C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Persistence.dll
+C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Domain.pdb
+C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Application\bin\Debug\net5.0\ProEventos.Persistence.pdb
+C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.csproj.AssemblyReference.cache
+C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.AssemblyInfoInputs.cache
+C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.AssemblyInfo.cs
+C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.csproj.CoreCompileInputs.cache
+C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.sourcelink.json
+C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Application\obj\Debug\net5.0\ProEvent.FC6AB697.Up2Date
+C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.dll
+C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Application\obj\Debug\net5.0\refint\ProEventos.Application.dll
+C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.Application.pdb
+C:\MeusProjetos\VSCode\ProjetoProEventosBackup2.0\ProEventos\back\src\ProEventos.Application\obj\Debug\net5.0\ref\ProEventos.Application.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MeusProjetos\\VSCode\\ProjetoProEventos - Backup - Erro Atualizacao Evento\\ProEventos\\back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj": {}
+    "C:\\MeusProjetos\\VSCode\\ProjetoProEventosBackup2.0\\ProEventos\\back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj": {}
   },
   "projects": {
-    "C:\\MeusProjetos\\VSCode\\ProjetoProEventos - Backup - Erro Atualizacao Evento\\ProEventos\\back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj": {
+    "C:\\MeusProjetos\\VSCode\\ProjetoProEventosBackup2.0\\ProEventos\\back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MeusProjetos\\VSCode\\ProjetoProEventos - Backup - Erro Atualizacao Evento\\ProEventos\\back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj",
+        "projectUniqueName": "C:\\MeusProjetos\\VSCode\\ProjetoProEventosBackup2.0\\ProEventos\\back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj",
         "projectName": "ProEventos.Domain",
-        "projectPath": "C:\\MeusProjetos\\VSCode\\ProjetoProEventos - Backup - Erro Atualizacao Evento\\ProEventos\\back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj",
+        "projectPath": "C:\\MeusProjetos\\VSCode\\ProjetoProEventosBackup2.0\\ProEventos\\back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj",
         "packagesPath": "C:\\Users\\isosc\\.nuget\\packages\\",
-        "outputPath": "C:\\MeusProjetos\\VSCode\\ProjetoProEventos - Backup - Erro Atualizacao Evento\\ProEventos\\back\\src\\ProEventos.Domain\\obj\\",
+        "outputPath": "C:\\MeusProjetos\\VSCode\\ProjetoProEventosBackup2.0\\ProEventos\\back\\src\\ProEventos.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -50,7 +55,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -59,18 +65,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\MeusProjetos\\VSCode\\ProjetoProEventos - Backup - Erro Atualizacao Evento\\ProEventos\\back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj": {
+    "C:\\MeusProjetos\\VSCode\\ProjetoProEventosBackup2.0\\ProEventos\\back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MeusProjetos\\VSCode\\ProjetoProEventos - Backup - Erro Atualizacao Evento\\ProEventos\\back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj",
+        "projectUniqueName": "C:\\MeusProjetos\\VSCode\\ProjetoProEventosBackup2.0\\ProEventos\\back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj",
         "projectName": "ProEventos.Persistence",
-        "projectPath": "C:\\MeusProjetos\\VSCode\\ProjetoProEventos - Backup - Erro Atualizacao Evento\\ProEventos\\back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj",
+        "projectPath": "C:\\MeusProjetos\\VSCode\\ProjetoProEventosBackup2.0\\ProEventos\\back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj",
         "packagesPath": "C:\\Users\\isosc\\.nuget\\packages\\",
-        "outputPath": "C:\\MeusProjetos\\VSCode\\ProjetoProEventos - Backup - Erro Atualizacao Evento\\ProEventos\\back\\src\\ProEventos.Persistence\\obj\\",
+        "outputPath": "C:\\MeusProjetos\\VSCode\\ProjetoProEventosBackup2.0\\ProEventos\\back\\src\\ProEventos.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -92,8 +98,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\MeusProjetos\\VSCode\\ProjetoProEventos - Backup - Erro Atualizacao Evento\\ProEventos\\back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj": {
-                "projectPath": "C:\\MeusProjetos\\VSCode\\ProjetoProEventos - Backup - Erro Atualizacao Evento\\ProEventos\\back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj"
+              "C:\\MeusProjetos\\VSCode\\ProjetoProEventosBackup2.0\\ProEventos\\back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj": {
+                "projectPath": "C:\\MeusProjetos\\VSCode\\ProjetoProEventosBackup2.0\\ProEventos\\back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj"
               }
             }
           }
@@ -102,6 +108,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -123,7 +134,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -132,7 +144,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

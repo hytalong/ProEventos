@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IO4bLcA5ZFnUPN9MVMcFfWNHk7Lmlb8nTzW+5bo6nx8A8S4tO207vMuT7/lf8o1EwrfH8SkAkfzfp0vMbHPXbA==",
+  "dgSpecHash": "BXHaC0DaZjA=",
   "success": true,
-  "projectFilePath": "C:\\MeusProjetos\\VSCode\\ProjetoProEventos - Backup - Erro Atualizacao Evento\\ProEventos\\back\\src\\ProEventos.Application\\ProEventos.Application.csproj",
+  "projectFilePath": "C:\\MeusProjetos\\VSCode\\ProjetoProEventosBackup2.0\\ProEventos\\back\\src\\ProEventos.Application\\ProEventos.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\isosc\\.nuget\\packages\\automapper\\8.0.0\\automapper.8.0.0.nupkg.sha512",
     "C:\\Users\\isosc\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.0.0\\automapper.extensions.microsoft.dependencyinjection.6.0.0.nupkg.sha512",
